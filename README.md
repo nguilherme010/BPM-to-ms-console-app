@@ -1,4 +1,4 @@
-<h1 align="center"> BPM-to-ms (console app) </h1>
+<h1> BPM-to-ms (console app) </h1>
 <p> My first conception of BPM to ms conversion, in a console. </p>
 <h1>The Math</h1>
 
