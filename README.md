@@ -1,5 +1,8 @@
 <h1> BPM-to-ms (console app) </h1>
 <p> My first conception of BPM to ms conversion, in a console. </p>
+
+![](https://i.imgur.com/n4CO21t.gif)
+
 <h1>The Math</h1>
 
 > ((60000/BPM) * Note) * Variation
