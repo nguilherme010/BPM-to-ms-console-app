@@ -5,7 +5,7 @@
 > ((60000/BPM) * Note) * Variation
 
 <p>
-  **Notes:**
+  Notes:
   
   **Whole note:** 4x <br />
   **Half note:** 2x <br />
@@ -14,7 +14,7 @@
   **16th note:** 0.25x <br />
   **32nd note:** 0.125x <br />
   <br />
-  **Variations:** <br />
+  Variations: <br />
   **Normal:** 1x <br />
   **Dotted:** 1.5x <br />
   **Triplet:** 0.666x <br />
