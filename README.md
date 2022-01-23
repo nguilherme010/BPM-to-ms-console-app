@@ -1,5 +1,5 @@
 <h1> BPM-to-ms (console app) </h1>
-<p> My first conception of BPM to ms conversion, in a console. </p>
+<p> My first conception of BPM to ms conversion, in a console. This is public domain, make the world a better place.</p>
 
 ![](https://i.imgur.com/n4CO21t.gif)
 
