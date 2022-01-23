@@ -1,0 +1,16 @@
+D:\gndes\Documents\Projetos\Programação\bpm to ms\bin\Release\net5.0\bpm to ms.exe
+D:\gndes\Documents\Projetos\Programação\bpm to ms\bin\Release\net5.0\bpm to ms.deps.json
+D:\gndes\Documents\Projetos\Programação\bpm to ms\bin\Release\net5.0\bpm to ms.runtimeconfig.json
+D:\gndes\Documents\Projetos\Programação\bpm to ms\bin\Release\net5.0\bpm to ms.runtimeconfig.dev.json
+D:\gndes\Documents\Projetos\Programação\bpm to ms\bin\Release\net5.0\bpm to ms.dll
+D:\gndes\Documents\Projetos\Programação\bpm to ms\bin\Release\net5.0\ref\bpm to ms.dll
+D:\gndes\Documents\Projetos\Programação\bpm to ms\bin\Release\net5.0\bpm to ms.pdb
+D:\gndes\Documents\Projetos\Programação\bpm to ms\obj\Release\net5.0\bpm to ms.csprojAssemblyReference.cache
+D:\gndes\Documents\Projetos\Programação\bpm to ms\obj\Release\net5.0\bpm to ms.GeneratedMSBuildEditorConfig.editorconfig
+D:\gndes\Documents\Projetos\Programação\bpm to ms\obj\Release\net5.0\bpm to ms.AssemblyInfoInputs.cache
+D:\gndes\Documents\Projetos\Programação\bpm to ms\obj\Release\net5.0\bpm to ms.AssemblyInfo.cs
+D:\gndes\Documents\Projetos\Programação\bpm to ms\obj\Release\net5.0\bpm to ms.csproj.CoreCompileInputs.cache
+D:\gndes\Documents\Projetos\Programação\bpm to ms\obj\Release\net5.0\bpm to ms.dll
+D:\gndes\Documents\Projetos\Programação\bpm to ms\obj\Release\net5.0\ref\bpm to ms.dll
+D:\gndes\Documents\Projetos\Programação\bpm to ms\obj\Release\net5.0\bpm to ms.pdb
+D:\gndes\Documents\Projetos\Programação\bpm to ms\obj\Release\net5.0\bpm to ms.genruntimeconfig.cache
